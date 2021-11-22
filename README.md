@@ -5,9 +5,8 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/AMITARY43842466" target="blank"><img src="https://img.shields.io/twitter/follow/AMITARY43842466?logo=twitter&style=for-the-badge" alt="AMITARY43842466" /></a>&nbsp
-<a href="https://www.linkedin.com/in/amit-aryan"><img src="https://img.shields.io/badge/-Amit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-   <a href="mailto:harikanani2003@gmail.com">
+<a href="https://www.linkedin.com/in/amit-aryan"><img src="https://img.shields.io/badge/-Amit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp<a href="https://twitter.com/AMITARY43842466" target="blank"><img src="https://img.shields.io/twitter/follow/AMITARY43842466?logo=twitter&style=for-the-badge" alt="AMITARY43842466" /></a>&nbsp<a href="https://facebook.com/amit.aryan.501/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt="amit.aryan.501" /></a>&nbsp
+   <a href="mailto:aa14to18cse@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aa14to18cse@hmail.com" />
   </a>
 </p>
@@ -20,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ak-need/](https://github.com/ak-need/)
 
-- 💬 Ask me about **Rails, Ruby, Golang, React,JavaScript, Python**
+- 💬 Ask me about **Rails,Ruby,Golang,React,JavaScript,Python**
 
 - 📫 How to reach me **aa14to18cse@gmail.com**
 
@@ -30,6 +29,15 @@
 
 ## 🌐 Languages and Tools :
 <p align="left">
+   <a href="https://guides.rubyonrails.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/ak-need/automatic-happiness/main/assets/images/rails-image.png" alt="JavaScript" width="50" height="50"/></code>
+    </a>
+   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/ak-need/automatic-happiness/main/assets/images/ruby.png" alt="JavaScript" width="50" height="50"/></code>
+    </a>
+   <a href="https://golang.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/ak-need/automatic-happiness/main/assets/images/golang.png" alt="JavaScript" width="50" height="50"/></code>
+    </a> 
     <a href="https://www.javascript.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
     </a> 
@@ -38,10 +46,7 @@
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://nodejs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
-    </a> 
+    </a>
         <a href="https://www.npmjs.com/package/express" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
     </a> 
@@ -53,36 +58,9 @@
     </a> 
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://devdocs.io/c/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.java.com/en/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.php.net/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://dart.dev/" target="_blank"> 
-        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
     </a>
     <a href="https://getbootstrap.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>   
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
     </a>
     <a href="https://www.heroku.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
@@ -116,9 +94,6 @@
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.android.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
     </a>
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
