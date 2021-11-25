@@ -108,5 +108,5 @@
 
 <br/>  
 
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=ak-need&theme=nord) 
+![ak-need's github activity graph](https://activity-graph.herokuapp.com/graph?username=ak-need&theme=nord) 
 
