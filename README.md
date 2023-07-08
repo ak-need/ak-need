@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aa14to18cse@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amit-aryan/](https://www.linkedin.com/in/ak-need/)
+- 📄 Know about me [Portfolio](https://akneed.netlify.app/)
 
 - ⚡ Fun fact **I love to code**
 
